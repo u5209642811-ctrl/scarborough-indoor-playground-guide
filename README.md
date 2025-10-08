@@ -3,7 +3,7 @@ Complete guide to indoor playgrounds and birthday party venues in Scarborough, T
 # Ultimate Guide to Indoor Playgrounds & Birthday Party Venues in Scarborough, Toronto
 ## 📚 Documentation
 
-For detailed guides, visit our [Wiki](https://github.com/[username]/scarborough-indoor-playground-guide/wiki)
+For detailed guides, visit our [Wiki](https://github.com/u5209642811-ctrl/scarborough-indoor-playground-guide/wiki)
 A comprehensive resource for parents seeking the **best indoor playground experiences** and **kids birthday party rooms** in Scarborough, Toronto. This guide helps families discover safe, engaging, and memorable entertainment venues for children of all ages.
 
 ## 🎯 Why Indoor Playgrounds in Scarborough?
